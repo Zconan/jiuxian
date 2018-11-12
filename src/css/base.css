@@ -1,0 +1,46 @@
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+a,
+input,
+img,
+ul,
+li {
+	margin: 0;
+	padding: 0;
+}
+
+ul,
+li {
+	list-style: none;
+}
+
+img {
+	display: block;
+	border: 0;
+}
+
+input {
+	outline: none;
+	border: none;
+}
+
+body {
+	font-size: 12px;
+	font-family: "微软雅黑";
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+button {
+	border: none;
+}

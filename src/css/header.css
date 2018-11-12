@@ -1,0 +1,29 @@
+/*header样式*/
+.header {
+	padding: 0 10px;
+	background: #de4943;
+	overflow: hidden;
+}
+
+.header i,
+.header p,
+.header svg {
+	float: left;
+	height: 40px;
+	width: 30px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+.header p {
+	width: 221px;
+	margin-left: 42px;
+}
+
+.header svg {
+	float: right;
+	width: 20px;
+}
